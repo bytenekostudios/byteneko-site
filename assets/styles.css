@@ -1,0 +1,5 @@
+:root{--cyan:#00ffff;--purple:#c77dff;--dark:#0b0c10;--light:#f8f9fa}
+body{font-family:'Inter',sans-serif;background-color:var(--dark);color:var(--light)}
+.text-cyan{color:var(--cyan)!important}.text-purple{color:var(--purple)!important}
+.btn-cyan{background-color:var(--cyan);color:#000;border:none}.btn-cyan:hover{background-color:#00e0e0}
+footer{color:var(--light)}
